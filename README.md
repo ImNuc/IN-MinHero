@@ -1,1 +1,1 @@
-A dedicated MinHero Fixes and Mods created by yours truly!
+This repository houses modified ActionScript 3 source files and custom SWF patches for Min Hero: Tower of Sages. The primary goal of this project is to fix legacy base-game crashes, refine UI data displays, and implement custom modded content.
